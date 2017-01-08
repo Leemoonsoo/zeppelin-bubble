@@ -1,0 +1,16 @@
+{
+  "name": "zeppelin-bubblechart",
+  "description" : "Animated bubble chart",
+  "version": "0.0.1",
+  "main": "bubblechart",
+  "author": "leemoonsoo",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "zeppelin-tabledata": "*",
+    "zeppelin-vis": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leemoonsoo/zeppelin-bubble"
+  }
+}
