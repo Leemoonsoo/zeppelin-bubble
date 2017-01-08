@@ -1,7 +1,7 @@
 {
   "name": "zeppelin-bubblechart",
   "description" : "Animated bubble chart",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "bubblechart",
   "author": "leemoonsoo",
   "license": "BSD-2-Clause",
